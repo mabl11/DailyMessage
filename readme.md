@@ -1,5 +1,7 @@
 # HSLU ILIAS scraper for a daily message
 
+# WILD IDEA FETCHING WITH CLAUDE
+
 ## Installation
 
 ```bash
