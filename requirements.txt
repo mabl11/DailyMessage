@@ -1,0 +1,17 @@
+# Core
+python-dotenv
+playwright
+beautifulsoup4
+
+# PDF extraction
+pymupdf
+
+# LLM (Groq — free Llama 3.3 70B)
+openai
+
+# RAG
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers

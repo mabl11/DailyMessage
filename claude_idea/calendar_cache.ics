@@ -1,0 +1,1931 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//ddaysoftware.com//NONSGML DDay.iCal 1.0//EN
+X-WR-CALNAME:HSLU Stundenplan
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260217T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260217T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384131
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260224T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260224T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384132
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260303T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260303T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384133
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260310T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260310T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384134
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260317T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260317T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384135
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260324T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260324T115000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384136
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260331T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260331T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384137
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260414T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260414T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384138
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260421T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260421T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384139
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260428T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260428T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384140
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260505T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260505T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384141
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260512T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260512T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384142
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260519T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260519T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384143
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260526T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260526T105000Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384144
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260220T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260220T115000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384145
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260227T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260227T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384146
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260306T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260306T115000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384147
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260313T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260313T115000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384148
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260320T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260320T115000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384149
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260327T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260327T115000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384150
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260410T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260410T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384151
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260417T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260417T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384152
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260424T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260424T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384153
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260501T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260501T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384154
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260508T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260508T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384155
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260515T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260515T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384156
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260522T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260522T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384157
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Algorithmen & Datenstrukturen\nAdresse: Suurstoffi
+  1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?ta
+ rget=crs_7001812&client_id=hslu\n
+DTEND:20260529T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260529T105000Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2384158
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260216T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260216T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384400
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260223T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260223T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260302T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260302T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384402
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260309T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260309T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384403
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260316T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260316T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384404
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260323T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260323T115000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384405
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260330T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260330T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384406
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260413T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260413T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384407
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260420T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260420T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384408
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260427T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260427T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384409
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260504T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260504T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384410
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260511T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260511T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384411
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Fortgeschrittene Analysis\nAdresse: Suurstoffi 1\,
+  Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target
+ =crs_7001833&client_id=hslu\n
+DTEND:20260518T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260518T105000Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2384412
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260219T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260219T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385231
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260226T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260226T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385232
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260305T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260305T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385233
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260312T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260312T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385234
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260319T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260319T080500Z
+LOCATION:Raum: I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385235
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260326T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260326T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385236
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260402T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260402T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385237
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260409T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260409T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385238
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260416T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260416T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385239
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260423T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260423T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385240
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260430T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260430T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385241
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260507T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260507T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385242
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260521T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260521T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385243
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Diskrete Mathematik für Datenverschlüsselung und D
+ atenkodierung\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://el
+ earning.hslu.ch/ilias/login.php?target=crs_7001902&client_id=hslu\n
+DTEND:20260528T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260528T070500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2385244
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260220T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260220T080500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385786
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260227T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260227T080500Z
+LOCATION:Raum: I.S1A_402
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385787
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260306T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260306T080500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385788
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260313T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260313T080500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385789
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260320T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260320T080500Z
+LOCATION:Raum: I.S1A_202
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385790
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260327T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260327T080500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385791
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260410T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260410T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385792
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260417T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260417T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385793
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260424T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260424T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385794
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260501T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260501T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385795
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260508T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260508T070500Z
+LOCATION:Raum: I.S1A_203
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385796
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260515T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260515T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385797
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260522T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260522T070500Z
+LOCATION:Raum: I.S1A_320
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385798
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Information Security Fundamentals\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001945&client_id=hslu\n
+DTEND:20260529T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260529T070500Z
+LOCATION:Raum: I.S1A_321
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2385799
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260216T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260216T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385882
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260223T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260223T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385883
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260302T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260302T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385884
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260309T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260309T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385885
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260316T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260316T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385886
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260323T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260323T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385887
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260330T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260330T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385888
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260413T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260413T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385889
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260420T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260420T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385890
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260427T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260427T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385891
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260504T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260504T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385892
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260511T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260511T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385893
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260518T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260518T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385894
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260217T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260217T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385895
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260224T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260224T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385896
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260303T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260303T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385897
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260310T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260310T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385898
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260317T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260317T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385899
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260324T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260324T080500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385900
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260331T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260331T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385901
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260414T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260414T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385902
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260421T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260421T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385903
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260428T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260428T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385904
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260505T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260505T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385905
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260512T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260512T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385906
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260519T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260519T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385907
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: IT-System Engineering & Operation\nAdresse: Suurst
+ offi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.ph
+ p?target=crs_7001956&client_id=hslu\n
+DTEND:20260526T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260526T070500Z
+LOCATION:Raum: I.S1A_209
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2385908
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260219T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260219T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386074
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260226T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260226T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386075
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260305T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260305T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386076
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260312T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260312T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386077
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260319T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260319T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386078
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260326T195000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260326T173000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386079
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260402T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260402T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386080
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260409T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260409T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386081
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260416T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260416T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386082
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260423T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260423T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386083
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260430T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260430T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386084
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260507T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260507T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386085
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260521T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260521T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386086
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Die Kunst der Finanzanlagen\nLink zu ILIAS: https:
+ //elearning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260528T185000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260528T163000Z
+LOCATION:Raum: I.Online
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2386087
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260218T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260218T080500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386527
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260225T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260225T080500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386528
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260304T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260304T080500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386529
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260311T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260311T080500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386530
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260325T102500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260325T080500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386532
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260401T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260401T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386533
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260408T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260408T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386534
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260415T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260415T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386535
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260422T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260422T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386536
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260429T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260429T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386537
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260506T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260506T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386538
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260513T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260513T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386539
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260520T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260520T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386540
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Modellierung Grundlagen\nAdresse: Suurstoffi 1\, R
+ otkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=c
+ rs_7002005&client_id=hslu\n
+DTEND:20260527T092500Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260527T070500Z
+LOCATION:Raum: I.S1A_411
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2386541
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260219T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260219T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386903
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260226T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260226T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386904
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260305T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260305T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386905
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260312T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260312T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386906
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260319T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260319T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386907
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260326T141000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260326T115000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386908
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260402T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260402T105000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386909
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260409T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260409T105000Z
+LOCATION:Raum: I.S1A_401
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386910
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260416T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260416T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386911
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260423T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260423T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386912
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260430T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260430T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386913
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260507T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260507T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260521T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260521T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386915
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bezeichnung: Projektmanagement Basics\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7002027&client_id=hslu\n
+DTEND:20260528T131000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260528T105000Z
+LOCATION:Raum: I.S1A_521
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2386916
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP schriftliche Prüfung\nBezeichnung: Algorithmen & D
+ atenstrukturen\nAdresse: Suurstoffi 12\, Rotkreuz\nLink zu ILIAS: https://
+ elearning.hslu.ch/ilias/login.php?target=crs_7001812&client_id=hslu\n
+DTEND:20260626T143000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260626T113000Z
+LOCATION:Raum: I.S12_003
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_AD.F2602
+UID:lekt_2465608
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP schriftliche Prüfung\nBezeichnung: Fortgeschritten
+ e Analysis\nAdresse: Suurstoffi 12\, Rotkreuz\nLink zu ILIAS: https://elea
+ rning.hslu.ch/ilias/login.php?target=crs_7001833&client_id=hslu\n
+DTEND:20260623T083000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260623T070000Z
+LOCATION:Raum: I.S12_003
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ANAF_K.F2602
+UID:lekt_2465625
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP schriftliche Prüfung\nBezeichnung: Diskrete Mathem
+ atik für Datenverschlüsselung und Datenkodierung\nAdresse: Suurstoffi 1\, 
+ Rotkreuz\nLink zu ILIAS: https://elearning.hslu.ch/ilias/login.php?target=
+ crs_7001902&client_id=hslu\n
+DTEND:20260615T083000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260615T070000Z
+LOCATION:Raum: I.S1A_MAX | I.S1A_MIDI
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_DMATH-CODE.F2601
+UID:lekt_2465679
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP elektronische Prüfung\nBezeichnung: Information Se
+ curity Fundamentals\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: http
+ s://elearning.hslu.ch/ilias/login.php?target=crs_7001945&client_id=hslu\n
+DTEND:20260620T080000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260620T070000Z
+LOCATION:Raum: I.S1A_MAX
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2465704
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP mündliche Prüfung\nBezeichnung: IT-System Engineer
+ ing & Operation\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://
+ elearning.hslu.ch/ilias/login.php?target=crs_7001956&client_id=hslu\n
+DTEND:20260630T103000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260630T063000Z
+LOCATION:Raum: I.S1A_221
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2465720
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP mündliche Prüfung\nBezeichnung: IT-System Engineer
+ ing & Operation\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://
+ elearning.hslu.ch/ilias/login.php?target=crs_7001956&client_id=hslu\n
+DTEND:20260630T173000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260630T113000Z
+LOCATION:Raum: I.S1A_221
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2465721
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP mündliche Prüfung\nBezeichnung: IT-System Engineer
+ ing & Operation\nAdresse: Suurstoffi 12\, Rotkreuz\nLink zu ILIAS: https:/
+ /elearning.hslu.ch/ilias/login.php?target=crs_7001956&client_id=hslu\n
+DTEND:20260701T103000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260701T063000Z
+LOCATION:Raum: I.S12_001
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ITEO.F2601
+UID:lekt_2465722
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP schriftliche Prüfung\nBezeichnung: Die Kunst der F
+ inanzanlagen\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://ele
+ arning.hslu.ch/ilias/login.php?target=crs_7001973&client_id=hslu\n
+DTEND:20260617T130000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260617T113000Z
+LOCATION:Raum: I.S1A_220
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_KUFA_Z.F2601
+UID:lekt_2465732
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP schriftliche Prüfung\nBezeichnung: Modellierung Gr
+ undlagen\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://elearni
+ ng.hslu.ch/ilias/login.php?target=crs_7002005&client_id=hslu\n
+DTEND:20260624T083000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260624T070000Z
+LOCATION:Raum: I.S1A_MAX
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_MOD_K.F2601
+UID:lekt_2465757
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: MEP elektronische Prüfung\nBezeichnung: Projektmanagem
+ ent Basics\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://elear
+ ning.hslu.ch/ilias/login.php?target=crs_7002027&client_id=hslu\n
+DTEND:20260703T080000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260703T063000Z
+LOCATION:Raum: I.S1A_MAX
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_PMB.F2602
+UID:lekt_2465779
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hinweis: NTA MTP\nBezeichnung: Information Security Fundamental
+ s\nAdresse: Suurstoffi 1\, Rotkreuz\nLink zu ILIAS: https://elearning.hslu
+ .ch/ilias/login.php?target=crs_7001945&client_id=hslu\n
+DTEND:20260501T080000Z
+DTSTAMP:20260504T075758Z
+DTSTART:20260501T070000Z
+LOCATION:Raum: I.S1A_321
+SEQUENCE:0
+STATUS:Confirmed
+SUMMARY:I.BA_ISF_K.F2602
+UID:lekt_2495174
+END:VEVENT
+END:VCALENDAR
