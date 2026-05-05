@@ -1,0 +1,9 @@
+# Morgen-Briefing Bot – Dependencies
+yfinance
+perigon
+python-dotenv
+icalendar
+requests
+playwright
+beautifulsoup4
+anthropic

@@ -1,0 +1,18 @@
+# Cookies / Secrets
+ilias_cookies.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Debug-Dateien vom Scraper
+debug_*.html
+course_materials_*.json
+
+# IDE
+.vscode/
+.idea/

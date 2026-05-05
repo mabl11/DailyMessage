@@ -1,0 +1,31 @@
+[project]
+name = "dailyoverview"
+version = "0.1.0"
+description = "Daily message that contains daily course topics, finanical and political news"
+authors = [
+    {name = "mabl11",email = "maublatter@gmail.com"}
+]
+readme = "README.md"
+requires-python = "^3.13"
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+python-dotenv = "^1.2.2"
+playwright = "^1.59.0"
+beautifulsoup4 = "^4.14.3"
+pymupdf = "^1.27.2.3"
+openai = "^2.34.0"
+langchain = "^1.2.17"
+langchain-community = "^0.4.1"
+langchain-text-splitters = "^1.1.2"
+langchain-chroma = "^1.1.0"
+chromadb = "^1.5.9"
+sentence-transformers = "^5.4.1"
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

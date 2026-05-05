@@ -1,28 +1,73 @@
-# HSLU Ilias Scraper for a daily message that includes:
+# Morning Briefing Bot
 
-##  For now just uploading some claude generated files which should work proplery, later I'll be fetching everything together to make a best possible project. 
+Daily WhatsApp briefing with market data, news, and HSLU lecture summaries.
 
-#### Overview:
+## MVP: ILIAS Course Scraper
 
-##### User Stories
+Intelligent scraper that navigates HSLU ILIAS, finds current lecture materials using RAG, and provides a summary.
 
-- As a student I want to receive every morning around 8:00 a message with most important information of the day. 
-- As a student I want to see the daily oil, gas, gold prices including some choosen important stock and etf prices
-- As a student I want to know which political news are most important (world and swiss politics)
-- As a student I want to know about the latest finance news
-- As a student I want to know about my day, which topics will be covered in which lecture
+### Setup
 
-##### TODO
+```bash
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+playwright install chromium
 
-- MVP: Web (Ilias) Scraper that gives a short summary of todays lectures and topics via command line. The Scraper should only be able to give out the information from a string that the User (me) will provide. (ex: "I.BA_ITEO.F2601")
-- 1. Whatsapp Integration -> The summary should be sent via Whatsapp
-- 2. Calendar Integration -> The Scraper has to read first the calendar and reads then the lectures of the day and will then give the summary. To the summary the date of today should be added.
-- 3. News Integration -> Most Important News should be added to the summary (basic world politics ex. "Putin attacks Ukraine", and basic swiss politics ex. "Vote result NO 59% EU - Unterwerfungsvertrag")
-- 4. Finance Integration -> Current Stock/ Share prices and latest oil/gas and gold prices should be addedd to the summary. ex.(UBS: 34.56 CHF ....Crude Oil: 109.92 $/barrel .... )
-- 5. General Design and Output Improvements
+cp .env.example .env
+# Add your Groq API key (free: console.groq.com)
+```
 
+### Usage
 
-##### Implementation
-MVP: HSLU Ilias Scraper has to have some kind to intelligence (AI) - This could be implemented with a RAG system where the RAG is given all the module descriptions (PDF) where the AI should read the "SW" Semesterwoche and from there search for the suitable File - which file is for todays lectures? - In case the folder in ilias is not properly named or named according to the topics. As an alternative confirmation to make sure the RAG has choosen the correct file there could be some kind of a upload date check, as usually but now always the latest uploaded files can be the suiting file for each day. 
-I should be able to give an Imput like: "I.BA_ITEO.F2601" then the scraper goes via my login to the correct course folder in Ilias and searches for the correct files, reads them and gives me a short summary so that I know which topics today will be covered. 
+```bash
+# 1. Login to ILIAS (once, repeat when session expires)
+python main.py login
 
+# 2. Index module descriptions for RAG (once per semester)
+#    Place PDFs in data/module_descriptions/ first
+python main.py ingest
+
+# 3. Scrape & summarize a course example
+python main.py scrape "I.BA_ITEO.F2601"
+```
+
+### Project Structure - Folder SW
+
+```
+morning-briefing/
+├── main.py                         Entry point
+├── src/
+│   ├── config/
+│   │   └── settings.py             All configuration
+│   ├── scraper/
+│   │   ├── auth.py                 ILIAS login (Playwright + cookies)
+│   │   ├── parser.py               HTML parsing for ILIAS pages
+│   │   ├── navigator.py            Page navigation & PDF downloads
+│   │   └── course.py               Main orchestrator
+│   └── rag/
+│       ├── llm.py                  Groq/Llama client
+│       ├── indexer.py              PDF → ChromaDB vector store
+│       └── agent.py                Intelligent folder selection
+├── data/
+│   └── module_descriptions/        Place module PDFs here
+├── cache/                          Auto-generated caches
+├── requirements.txt
+└── .env
+```
+
+### How the RAG works
+
+1. Place module description PDFs in `data/module_descriptions/`
+2. Run `python main.py ingest` — chunks and embeds them into ChromaDB
+3. When scraping, the agent queries the vector store for "what's in SW12?" context
+4. This context helps the LLM pick the right folder, even without SW labels
+
+### Roadmap
+
+- [x] MVP: ILIAS scraper with RAG-based navigation
+- [ ] WhatsApp integration (Meta Cloud API)
+- [ ] Calendar integration (ICS feed)
+- [ ] News integration (Perigon API)
+- [ ] Finance data (yfinance)
+- [ ] Automated daily briefing (cron)

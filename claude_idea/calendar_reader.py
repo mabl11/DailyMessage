@@ -132,28 +132,33 @@ def get_events_for_date(cal: Calendar, target_date: date) -> list[dict]:
 def extract_course_code(summary: str) -> str:
     """
     Versucht ein Modulkürzel aus dem Event-Titel zu extrahieren.
-    Typische Formate:
-      - "ANLIS.H2401 - Analysis"      → ANLIS
-      - "STAT.H2401"                   → STAT
-      - "Analysis (ANLIS)"             → ANLIS
-      - "DMATH - Diskrete Mathematik"  → DMATH
+    Typische HSLU-Formate:
+      - "I.BA_ITEO.F2601"          → ITEO
+      - "I.BA_ANAF_K.F2602"        → ANAF
+      - "ANLIS.H2401 - Analysis"   → ANLIS
+      - "DMATH - Diskrete Mathe"   → DMATH
     """
-    # Muster 1: "KÜRZEL.Semester" (z.B. ANLIS.H2401)
+    # Muster 1: HSLU Format "I.BA_KÜRZEL.Fxxxx" oder "I.BA_KÜRZEL_X.Fxxxx"
+    match = re.search(r"I\.BA_([A-Z]{2,10})(?:_[A-Z])?\.F\d+", summary)
+    if match:
+        return match.group(1)
+
+    # Muster 2: "KÜRZEL.Semester" (z.B. ANLIS.H2401)
     match = re.match(r"^([A-Z]{2,10})\.\w+", summary)
     if match:
         return match.group(1)
 
-    # Muster 2: "KÜRZEL - Beschreibung" (z.B. DMATH - Diskrete Mathematik)
+    # Muster 3: "KÜRZEL - Beschreibung"
     match = re.match(r"^([A-Z]{2,10})\s*[-–]", summary)
     if match:
         return match.group(1)
 
-    # Muster 3: Kürzel in Klammern (z.B. "Analysis (ANLIS)")
+    # Muster 4: Kürzel in Klammern
     match = re.search(r"\(([A-Z]{2,10})\)", summary)
     if match:
         return match.group(1)
 
-    # Fallback: Erster Teil des Titels
+    # Fallback
     return summary.split(" ")[0].split(".")[0].split("-")[0].strip()
 
 
