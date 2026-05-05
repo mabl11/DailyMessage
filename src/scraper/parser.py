@@ -9,6 +9,8 @@ class IliasItem:
     name: str
     url: str
     item_type: str  # "file", "folder", "unknown"
+    description: str = ""
+    date_hint: str = ""  # raw date text from ILIAS, e.g. "15. Feb 2026, 07:18"
 
 
 def parse_courses(html: str) -> list[IliasItem]:
@@ -77,7 +79,32 @@ def _parse_row(el) -> IliasItem | None:
     url = _resolve_url(href)
     item_type = _detect_type(el, href)
 
-    return IliasItem(name=name, url=url, item_type=item_type)
+    # Extract description/subtitle
+    desc = ""
+    for sel in [".il-item-description", ".ilListItemDescription",
+                ".il_Description", ".il_ItemProperty"]:
+        desc_el = el.select_one(sel)
+        if desc_el:
+            desc = desc_el.get_text(strip=True)
+            break
+
+    # Extract date hint from item properties (e.g. "pdf 5.55 MB Heute, 08:48")
+    date_hint = ""
+    prop_text = el.get_text(" ", strip=True)
+    import re
+    date_patterns = [
+        r'(\d{1,2}\.\s*\w+\s*\d{4},?\s*\d{2}:\d{2})',  # "15. Feb 2026, 07:18"
+        r'(Heute,?\s*\d{2}:\d{2})',                       # "Heute, 08:48"
+        r'(Gestern,?\s*\d{2}:\d{2})',                     # "Gestern, 14:30"
+        r'(\d{1,2}\.\s*\w{3}\.?\s*\d{4})',                # "15. Feb 2026"
+    ]
+    for pattern in date_patterns:
+        m = re.search(pattern, prop_text)
+        if m:
+            date_hint = m.group(1)
+            break
+
+    return IliasItem(name=name, url=url, item_type=item_type, description=desc, date_hint=date_hint)
 
 
 def _detect_type(el, href: str) -> str:
